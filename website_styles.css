@@ -1,0 +1,115 @@
+header {
+	background-color: #171717;
+	
+	margin-bottom: 0;
+	padding: 0;
+	clear: both;
+}
+.motto {
+	float: left;
+	font-size: 22px;
+	text-align: center;
+	font-family: "BlackChancery";
+	color: white;
+	margin-left: 200px;
+}
+.logo2 {
+	margin-left: 200px;
+	margin-right: 0;
+}
+.rec_desc h2 {
+	color: white;
+	font-family: "Big Space";
+	/*font-weight: normal;*/
+	text-align: center;
+	font-size: 50px;
+	margin-bottom: 18px;
+	padding-top: 5px; 
+}
+.rec_desc p {
+	color: #182a29;
+	font-family: "Bell MT";
+	font-weight: 500;
+	text-align: center;
+	font-size: 24px;
+	text-shadow: 1px 1.4px black;
+	margin-left: 20px;
+	margin-right: 22px;
+
+}
+.rec_ann h2 {
+	font-size: 35px;
+	text-align: center;
+	font-style: italic;
+	font-family: "Bebas Neue";
+	color: white;
+}
+.rec_ann ul {
+	font-size: 26px;
+	font-family: "Lemon/Milk";
+	font-weight: normal;
+	color: white;
+	margin-left: 11px;
+}
+.rec_ann ul, li {
+	padding-bottom: 8px;
+}
+.rec_ann {
+	width: 350px;
+	height: 360px;
+	background-color: #282828;
+	border-radius: 10px;
+	float: right;
+	margin-top: 42px;
+	margin-right: 25px;
+}
+.rec_desc {
+	margin-left: 40px;
+	margin-top: 30px;
+	width: 860px;
+	height: 399px;
+	border-radius: 10px;
+	background-color: #636363;
+	float: left;
+}
+.rec1 , .rec2 {
+	background-color: white;
+	width: 100%;
+	height: 3px;
+}
+.tabs {
+	padding: 3px 0px 2px 0px;
+	margin-bottom: 0px;
+	background-color: #c3262e;
+	font-size: 30px;
+	text-align: center;
+	font-family: "Bebas Neue";
+}
+.header_ribbon {
+	margin-bottom: 5px;
+	padding-bottom: 0px;
+}
+a:hover {
+	color: #171717;
+}
+html, body {
+	background-color: #403f3f;
+	margin: 0;
+	padding: 0;
+}
+.MB , .AM {
+	color: white;
+	text-decoration: unset;
+}
+#footer_copyright {
+	background-color: #171717;
+	margin-top: 450px;
+	padding-top: 25px;
+	padding-bottom: 10px;
+}
+#content {
+	background-image: url(cover.jpg);
+}
+.MB {
+	padding-right: 50px;
+}
